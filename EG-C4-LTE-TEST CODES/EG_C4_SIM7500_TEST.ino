@@ -1,4 +1,4 @@
--#include <SPI.h>
+#include <SPI.h>
 #include "Adafruit_MAX31855.h"
 
 #define MAXDO  19
